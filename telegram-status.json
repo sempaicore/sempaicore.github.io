@@ -1,9 +1,9 @@
 {
   "username": "sempaicore",
-  "online": false,
-  "kind": "offline",
-  "text": "был(а) 1 минуту назад",
-  "wasOnline": 1787779370,
-  "expires": null,
-  "updatedAt": "2026-08-26T21:23:53.639Z"
+  "online": true,
+  "kind": "online",
+  "text": "в сети",
+  "wasOnline": null,
+  "expires": 1787779786,
+  "updatedAt": "2026-08-26T21:24:48.010Z"
 }
